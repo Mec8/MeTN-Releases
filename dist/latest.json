@@ -1,0 +1,11 @@
+{
+  "format": "MeTN-update",
+  "platform": "windows-x64",
+  "version": "0.4.17",
+  "type": "exe",
+  "url": "",
+  "size": 410960896,
+  "sha256": "24c74cddc89c33d76d7c0cdb62bbb4c5129fa76d7e74ec74caa0a654f07cef98",
+  "notes": "蓝白鲸尾图标，统一程序、托盘与安装器。\n支持选择保留资料或确认清除当前资料。\n安装完成后点击“完成”才打开程序。",
+  "published": false
+}
